@@ -55,6 +55,6 @@ func do1(task *bgtaskqueue.Task) error {
 |ConsumerDistributionModeFanout|A set of data will be distributed to all consumers|
 |ConsumerDistributionModeRoundRobin|One set of data will only be sent to one consumer|
 ## Examples
-This case study includes some simple usage examples.
+This case study includes some simple usage [examples](./example/).
 ## License
 This software is licensed under the Apache 2 license
